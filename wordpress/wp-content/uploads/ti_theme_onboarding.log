@@ -1,0 +1,17 @@
+[04/Apr/2023:16:26:58] (I): WordPress Instance Info:
+[04/Apr/2023:16:26:58] (I): Home URL : http://localhost/master-php/15-aprendiendo-wordpress/wordpress
+[04/Apr/2023:16:26:58] (I): Site URL : http://localhost/master-php/15-aprendiendo-wordpress/wordpress
+[04/Apr/2023:16:26:58] (I): WordPress Version : 6.2
+[04/Apr/2023:16:26:58] (I): Onboarding Version : 1.1.37
+[04/Apr/2023:16:26:58] (I): Multisite : No
+[04/Apr/2023:16:26:58] (I): Server Info : Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/7.4.32
+[04/Apr/2023:16:26:58] (I): PHP Version : 7.4.32
+[04/Apr/2023:16:26:58] (I): HTTPS : No
+[04/Apr/2023:16:26:58] (I): PHP Max Execution Time : 36000
+[04/Apr/2023:16:26:58] (I): PHP Max Input Vars : 1000
+[04/Apr/2023:16:26:58] (I): Max Upload Size : 2147483648
+[04/Apr/2023:16:26:58] (I): Plugins:
+[04/Apr/2023:16:26:58] (I): [PLUGIN] Editor clásico : v1.6.3 (Colaboradores de WordPress)
+[04/Apr/2023:16:26:58] (I): [PLUGIN] Templates Patterns Collection : v1.1.37 (ThemeIsle)
+[04/Apr/2023:16:26:58] (I): [PLUGIN] ThemeGrill Demo Importer : v1.9.2.1 (ThemeGrill)
+[04/Apr/2023:16:26:58] (I): [PLUGIN] WP Mail SMTP : v3.7.0 (WPForms)
